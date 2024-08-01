@@ -1,0 +1,20 @@
+:root {
+    --bg-hero-footer: #1F2937;
+    --hero-txt-clr: #F9FAF8;
+    --hero-secd-txt-clr: #E5E7EB;
+    --header-logo-txt-clr: #f9faf8;
+    --btn-color: #3882f6;
+    --info-header-txt-xlr: #1f2937;
+    --quote-bg-clr: #e5e7eb;
+    --quote-txt-clr: #1f2937;
+}
+
+html , body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', 'Times New Roman', Times, serif;
+}
+
