@@ -210,3 +210,11 @@ blockquote {
     border-radius: 5px;
 }
 
+.footer {
+    background-color: var(--bg-hero-footer);
+    padding: 30px;
+    color: var(--header-logo-txt-clr);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
